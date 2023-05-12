@@ -1,0 +1,74 @@
+[
+  {
+    "model": "products.product",
+    "pk": 1,
+    "fields": {
+      "name": "Optimeal Cat Adult Sterilised Turkey",
+      "description": "Повнораційний сухий корм з індичкою та вівсом для дорослих котів та кішок після кастрації/стерилізації 1,5 кг.",
+      "price": "440.00",
+      "quantity": 11,
+      "image": "products_images/OptimealSTIRIL.jpg",
+      "category": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 2,
+    "fields": {
+      "name": "Royal Canin Mini Adult",
+      "description": "Корм для дорослих собак малих порід віком від 10 місяців до 8 років. 2 кг.",
+      "price": "580.00",
+      "quantity": 3,
+      "image": "products_images/RoyalMiniAdult.jpg",
+      "category": 2
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 3,
+    "fields": {
+      "name": "Royal Canin Indoor 27",
+      "description": "Повнораційний сухий корм для кішок віком від 1 до 7 років, що мешкають у приміщенні 2 кг.",
+      "price": "675.00",
+      "quantity": 7,
+      "image": "products_images/RoyalIndoor27.jpg",
+      "category": 3
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 4,
+    "fields": {
+      "name": "Trixie Cookies Печиво для котів",
+      "description": "Апетитне печиво з лососем та котячою м'ятою для котів.",
+      "price": "50.00",
+      "quantity": 9,
+      "image": "products_images/TrixieCookies.jpg",
+      "category": 5
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 5,
+    "fields": {
+      "name": "Noble Pet Bobby Navy Пуховик для собак, сірий",
+      "description": "Утеплений комфортний пуховик для собак на сезон прохолодної осені та весни 2XL.",
+      "price": "578.00",
+      "quantity": 5,
+      "image": "products_images/NobleПуховиксобак.jpg",
+      "category": 4
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 6,
+    "fields": {
+      "name": "Brit Premium by Nature Cat Sterilized Salmon",
+      "description": "Гіпоалергенний збалансований сухий корм із лососем та індичкою для дорослих стерилізованих кішок усіх порід із чутливим травленням 1,5 кг.",
+      "price": "363.00",
+      "quantity": 5,
+      "image": "products_images/BritNatureSalmon.jpg",
+      "category": 1
+    }
+  }
+]
